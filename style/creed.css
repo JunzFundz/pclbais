@@ -1,0 +1,21 @@
+h2{
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+}
+
+@media only screen and (max-width: 720px) {
+    .image-in-creed{
+        margin-top: -80px;
+        
+      }
+      p{
+        font-family: 'Raleway', sans-serif;
+        margin: 20px;
+        font-size: 20px;
+    }
+      
+}

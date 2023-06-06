@@ -1,0 +1,41 @@
+.body .cards2{
+  display: inline-block !important;
+}
+.cards2 {
+  margin: 20px 40px 20px 40px;
+}
+.back-button>a{
+  text-decoration: none;
+  padding-left: 30px;
+  padding-top: 10px;
+  height: 70px;
+  z-index: 999;
+  width: 100%;
+  background-color: rgb(251, 251, 251);
+  position: fixed;
+}
+.cards1 img {
+  margin-top: 100px;
+}
+.card{
+  --bs-card-border-width: 0px !important; 
+  --bs-card-border-color: var(--bs-border-color-translucent);
+}
+.button-inv{
+  margin-top: 30px;
+  font-size: 25px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.button-inv a:hover{
+  overflow: hidden;
+  background-color: rgb(171, 107, 232);
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  border-radius: 20px;
+  transition: ease-in-out 0.3s;
+}
+
+
+
+

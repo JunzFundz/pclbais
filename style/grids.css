@@ -1,0 +1,31 @@
+.container-for{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    width:100%;
+}
+.upp,.front-div-pic{
+    grid-column: 1/8;
+}
+.front-div-pic{
+    margin-top: 70px;
+}
+.label-in-text{
+    grid-column: 1/8;
+}
+.featurettes{
+    grid-column: 2/4;
+}
+.side-text-1{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    grid-column: 5/7;
+}
+.pcl-hymm{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    margin: 0 0 0 40px;
+    grid-column: 5/7;
+}
+.featurettes-2{
+    grid-column: 2/4;
+}

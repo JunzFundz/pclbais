@@ -1,0 +1,78 @@
+
+   .navbar-brand img{
+    margin-top: -7px !important;
+    object-fit: contain;
+    aspect-ratio: 3/2;
+    width: 100px;
+   }
+   .car-imgs .item-new-inn img{
+    margin-top: -100px;
+    object-fit: contain;
+    aspect-ratio: 3/1;
+    width: 100%;
+   }
+   #desc {
+    margin-top: 500px;
+    margin-left: 50px;
+    text-align: center;
+    position: absolute;
+   }
+   nav{
+    height: 80px;
+   }
+
+.line{
+    width: 70%; background-color:black; height:2px;
+}
+.pcl-hymm p, .side-text-1 p{
+    margin-top: 30px;
+}
+video{
+    margin-top: 30px;
+}
+.label-in-text{
+    font-family: cursive;
+    margin-top: 60px;
+}
+.fixed-top {
+    position: fixed;
+    height: 80px;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .navbar-scroll {
+    background-color: #fff; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .nav-height-inn {
+    height: 80px;
+    transition: height 0.3s ease-in-out;
+  }
+  
+  .nav-height-inn .navbar-brand {
+    padding-top: 10px;
+  }
+  
+  .navbar-collapse {
+    justify-content: flex-end; 
+  }
+  
+  .list-adjust {
+
+    margin-right: 20px;
+  }
+  
+  .hamburger-adjust .navbar-toggler {
+    margin-top: 5px;
+  }
+.logo-creed img{
+    object-fit: contain;
+    aspect-ratio: 3/2;
+    width: 40%;
+}
+  
+
